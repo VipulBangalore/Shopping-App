@@ -1,0 +1,8 @@
+
+.table-bordered>tbody>tr>td{
+  max-width: 200px;
+}
+.input-group {
+  max-width: 20%;
+  margin-bottom: 7px;
+}

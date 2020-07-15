@@ -1,0 +1,162 @@
+[
+  {
+     "product_id":"pd100",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/jxnksy80/computer/9/x/8/lenovo-na-thin-and-light-laptop-original-imafg2qf4t2dpgbf.jpeg?q=70",
+     "product_name":"Lenovo Laptop",
+     "product_price":30000,
+     "product_details":"Lenovo Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":2
+  },
+  {
+     "product_id":"pd101",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/kb6tyfk0/computer/x/z/h/lenovo-original-imafshg52gby5xsa.jpeg?q=70",
+     "product_name":"HP Laptop",
+     "product_price":20000,
+     "product_details":"Lenovo Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":5
+  },
+  {
+     "product_id":"pd102",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/kb6tyfk0/computer/x/z/h/lenovo-original-imafshg54zy4mtfr.jpeg?q=70",
+     "product_name":"LG Laptop",
+     "product_price":25000,
+     "product_details":"LG Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":2
+  },
+  {
+     "product_id":"pd103",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/kb6tyfk0/computer/x/z/h/lenovo-original-imafshg5z5z6yvmk.jpeg?q=70",
+     "product_name":"Sony Laptop",
+     "product_price":39000,
+     "product_details":"Sony Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":9
+  },
+  {
+     "product_id":"pd104",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k94j24w0/computer/z/f/p/lenovo-na-thin-and-light-laptop-original-imafqzdgma75wgxz.jpeg?q=70",
+     "product_name":"Apple Laptop",
+     "product_price":70000,
+     "product_details":"Apple Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":1
+  },
+  {
+     "product_id":"pd105",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k94j24w0/computer/z/f/p/lenovo-na-thin-and-light-laptop-original-imafqzdgzcnwgzph.jpeg?q=70",
+     "product_name":"Ipad",
+     "product_price":35000,
+     "product_details":"Apple Ideapad 320E Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2\n GB Graphics) IP 320-15IKB Laptop (15.6 inch, Onyx Black, 2.2 kg)",
+     "product_quality":3
+  },
+  {
+     "product_id":"pd106",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/kb9ou4w0/computer/p/j/f/lenovo-na-laptop-original-imafsnkyrby5hgzq.jpeg?q=70",
+     "product_name":"Lenovo Mobile",
+     "product_price":10000,
+     "product_details":"Stunning visuals on a 15.2-cm (5.99) FHD+ display, a powerful 1.8 GHz\n Snapdragon 636 processor, and expandable memory of up to 128 GB - the Redmi Note 5 Pro has\n much to offer. The (12 MP + 5 MP) dual rear camera setup and a 20 MP front camera, coupled\n with features such as Beautify 4.0, let you take truly beautiful pictures and selfies.",
+     "product_quality":5
+  },
+  {
+     "product_id":"pd107",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k51cpe80pkrrdj/mobile/5/y/e/realme-xt-rmx1921-original-imafk8h2gbyatyyr.jpeg?q=70",
+     "product_name":"Realme XT",
+     "product_price":16999,
+     "product_details":"4 GB RAM | 64 GB ROM | Expandable Upto 256 GB 16.26 cm (6.4 inch) Display\n 64MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera 4000 mAh Battery Qualcomm 712 Processor\n FHD+ Super AMOLED Display In Display Fingerprint Sensor",
+     "product_quality":6
+  },
+  {
+     "product_id":"pd108",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k51cpe80pkrrdj/mobile/5/y/e/realme-xt-rmx1921-original-imafk8h2gbyatyyr.jpeg?q=70",
+     "product_name":"Nokiya",
+     "product_price":22000,
+     "product_details":"Bring home the Mi LED Smart TV 4A 108 cm (43) and delight your senses\n with crisp images and rich audio quality. It features Full HD LED Display that gives you\n crystal clear visuals while the Stereo Speakers make for immersive sound quality, leaving\n no room for a dull moment.",
+     "product_quality":6
+  },
+  {
+     "product_id":"pd109",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k3xcdjk0/television/r/5/h/nokia-55cauhdn-original-imafmxw7qfxh6b7a.jpeg?q=70",
+     "product_name":"Nokia 139cm",
+     "product_price":41999,
+     "product_details":"Bring home this Nokia Smart TV and transform your entertainment experience.\n With features such as Intelligent Dimming,\n DTS Trusurround, and Dolby Audio, get ready for a truly cinematic experience. What's more? With Google Assistant's voice command interface, finding your favourite TV shows and movies is a piece of cake.",
+     "product_quality":6
+  },
+  {
+     "product_id":"pd110",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/kcc9q4w0/television/g/g/g/samsung-ua32t4010arxxl-ua32t4010arxxl-original-imafthw7jkneebw8.jpeg?q=70",
+     "product_name":"Samsung 80cm (32 inch) HD Ready LED TV ",
+     "product_price":12499,
+     "product_details":"Enjoy immersive entertainment with this Samsung TV, which comes with\n a slim design that complements the beauty of your room. On top of that, it boasts one USB\n port and two HDMI ports so that you can easily connect your external devices and enjoy\n seamless entertainment. Furthermore, the 20 W in-built speakers deliver a lifelike audio\n experience.",
+     "product_quality":2
+  },
+  {
+     "product_id":"pd111",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k0tw13k0/television/n/h/b/thomson-b9-pro-40m4099-40m4099-pro-original-imafkjazmmrurw7t.jpeg?q=70",
+     "product_name":"Thomson B9 Pro 102cm (40 inch) Full HD LED Smart TV",
+     "product_price":15499,
+     "product_details":"Bring home this Thomson TV that has a 102 cm (40) Full-HD display and enjoy\n your favourite content. The resolution of this TV panel is 1920x1080. The 20-W speakers\n deliver a satisfying listening experience. You can enjoy streaming online content and also\n stream content directly from your smartphone using the screen mirroring feature.",
+     "product_quality":3
+  },
+  {
+     "product_id":"pd112",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k05ljm80/television/a/3/h/lg-32lm560bptc-original-imafjydmy5rwcdw7.jpeg?q=70",
+     "product_name":"LG All-in-One 80cm (32 inch) HD Ready LED Smart TV",
+     "product_price":13499,
+     "product_details":"Are you tired of accessing your entertainment on small screens? Bring home this 80 cm\n (32) HD Ready LED Smart TV. This is the 2019 Edition that boasts Active HDR that is combined with a Quad-core\n Processor to deliver sharp, upscaled images. All your content will now look lifelike. The DTS Virtual X and\n Dolby Audio deliver a listening experience that will leave you enthralled.",
+     "product_quality":8
+  },
+  {
+     "product_id":"pd113",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k0tw13k0/television/h/8/t/thomson-24tm2490-original-imafkjazdh3jzy78.jpeg?q=70",
+     "product_name":"Thomson R9 60cm (24 inch) HD Ready LED TV",
+     "product_price":5499,
+     "product_details":"Bring home this TV from Thomson and binge-watch your favourite content in the comfort of your house.\n This TV features a wide viewing angle of 178 degrees, which makes it easier for you to enjoy content\n wherever you’re seated. You can enjoy an immersive sound experience, thanks to the enhanced audio system of this TV.",
+     "product_quality":13
+  },
+  {
+     "product_id":"pd114",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k2w6xe80/television/j/f/n/thomson-49-oath-9000-original-imafm59fg5m9susb.jpeg?q=70",
+     "product_name":"Thomson 123.2cm (49 inch) Ultra HD (4K) LED Smart Android TV with In-built soundbar & Netflix (49 OATH 9000)",
+     "product_price":26999,
+     "product_details":"Watch what you love in the comfort of your house with this LED Smart Android TV from Thomson. It comes with Dolby Audio and DTS technologies\n for powerful surround sound, easy wireless connectivity, Google Assistant button for your everyday needs, and lots more.",
+     "product_quality":3
+  },
+  {
+     "product_id":"pd115",
+     "product_img":"https://rukminim1.flixcart.com/image/800/960/j5crukw0/laptop-bag/m/w/k/lenovo8793-8877-laptop-backpack-lenovo-original-imaew2g5ksfantph.jpeg?q=50",
+     "product_name":"15.6 inch Laptop Backpack",
+     "product_price":499,
+     "product_details":" was very small comparing the old lenovo bag which I received while buying laptop.\n please see everyone it is small in size and it's better you can avoid this product if you are purchasing\n keeping in mind it will be same as your old laptop bag because it's NOT.",
+     "product_quality":33
+  },
+  {
+     "product_id":"pd116",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k3erngw0/inflatable-sofa/8/e/g/pvc-airsofa-cum-indoor-outdoor-bed-006-pvc-3-seater-inflatable-original-imafgnbmmz8tzep6.jpeg?q=70",
+     "product_name":"DIAL FOR STYLE DREAM Airsofa PVC 3 Seater Inflatable Sofa",
+     "product_price":3499,
+     "product_details":"Airsofa cum indoor outdoor Bed 006 PVC 3 Seater Inflatable Sofa",
+     "product_quality":3
+  },
+  {
+     "product_id":"pd117",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/jrf8o7k0/recliner/a/y/d/coffee-bean-cotton-frcbb1-furlay-original-imafd4qtgpdttypz.jpeg?q=70",
+     "product_name":"furlay Recliner Chair Fabric Manual Recline",
+     "product_price":5499,
+     "product_details":"An Furlay Foldable Recliner Perfect For Anyone Short On Space Enjoy The\n Feeling Of Being Comfortable While You Read Or Watch Television Using Our Recliner Chair.\n Furlay Foldable Recliner Chair With Its Slim, Modern Design Will Be Perfect For Anyone\n Short On Space.",
+     "product_quality":10
+  },
+  {
+     "product_id":"pd118",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/ji20r680/kit/v/j/3/kit-0004-sunley-original-imaf5wqfzn2j8bzc.jpeg?q=70",
+     "product_name":"SUNLEY Sarthak Youth Size Cricket Kit",
+     "product_price":999,
+     "product_details":"1 Piece Wooden Cricket Bat 30.3'' Inches Length, 3 Piece Wooden Wickets\n 27'' Inches Length, 2 Piece Bails, 1 Piece Tennis Ball, 1 Piece Combo Cricket Kit Bag\n Dimensions Width 23cm Height 70 cm Depth 13 cm",
+     "product_quality":10
+  },
+  {
+     "product_id":"pd119",
+     "product_img":"https://rukminim1.flixcart.com/image/832/832/k5r2mq80/refrigerator-new/5/m/6/if-inv-cnv-278-magnum-steel-3s-n-3-whirlpool-original-imaffu97zkcbawzv.jpeg?q=70",
+     "product_name":"Whirlpool 265 L Frost Free Double Door 3 Star",
+     "product_price":25499,
+     "product_details":"\n With this Whirlpool refrigerator in your home, eat fresh food every single day to live a healthy and happy life. This refrigerator features\n the Adaptive Intelligence technology, the IntelliSense Inverter Technology, and the Zeolite Technology for consistent cooling and long-lasting\n freshness of your edibles.",
+     "product_quality":8
+  }
+]

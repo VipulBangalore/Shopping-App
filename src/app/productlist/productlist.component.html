@@ -1,0 +1,60 @@
+
+<div class="table-responsive">
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-addon">
+        <i class="glyphicon glyphicon-search"></i>
+      </div>
+      <input
+        type="text"
+        class="form-control"
+        name="searchString"
+        placeholder="Product Name Search..."
+        [(ngModel)]="searchString"
+      />
+    </div>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quatity</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let list of products  | filter : 'product_name' : searchString | sortBy: 'asc':'product_name' | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize">
+          <td>{{list.product_id}}</td>
+          <td><img src="{{list.product_img}}" class="img-thumbnail" style="height:100px;" /></td>
+          <td>{{list.product_name }}</td>
+          <td>{{list.product_price | currency: 'INR'}}</td>
+          <td>
+            {{list.product_quality}}
+            <button class="btn btn-success btn-xs plus" (click)="addItem(list.product_id)"><i class="glyphicon glyphicon-plus"></i></button>
+            <button class="btn btn-danger btn-xs minus" (click)="deleteItem(list.product_id)"><i class="glyphicon glyphicon-minus"></i></button>
+          </td>
+          <td>
+            <button class="btn btn-primary btn-sm" (click)="getpopup(list)">View</button> &nbsp;
+            <button class="btn btn-danger btn-sm" (click)="deletepopup(list.product_id)">Delete</button>
+          </td>
+        </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Total Price</td>
+        <td colspan="6" class="text-right">{{total | currency: 'INR' }}</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+  <ngb-pagination *ngIf="show"  [collectionSize]="products.length" [(page)]="page" [maxSize]="10" [rotate]="true" [ellipses]="false"
+        [boundaryLinks]="true">
+      </ngb-pagination>
+
+
+
+
+  <app-productdetails [list] = "selectedProduct"></app-productdetails>
+
